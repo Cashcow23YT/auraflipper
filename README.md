@@ -12,7 +12,7 @@
     </a>
 </p>
 
-### Download:
+### Download: https://github.com/Cashcow23YT/auraflipper/releases/tag/releases
 
 
 ### What it does:
